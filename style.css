@@ -1,0 +1,34 @@
+
+body {
+  background: linear-gradient(to right, #2b1055, #7597de);
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(255,255,255,0.2);
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #00f2ea;
+  color: #000;
+  cursor: pointer;
+}
+
+#results {
+  margin-top: 20px;
+  text-align: left;
+}
